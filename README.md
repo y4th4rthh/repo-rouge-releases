@@ -98,7 +98,7 @@ python reporouge_cli.py pull
 
 ## 🐛 Bug Reports & Feature Requests
 
-Please use the [GitHub Issues](https://github.com/y4th4rthh/reporouge/issues) page to report bugs or request features.
+Please use the [GitHub Issues](https://github.com/repo-rouge-releases/issues) page to report bugs or request features.
 
 ## 🙏 Acknowledgments
 
